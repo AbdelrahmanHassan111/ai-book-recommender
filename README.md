@@ -1,11 +1,6 @@
 # 📚✨ **AI Book Recommendation System using NLP** ✨📚
 
-```
-C L I C K   B L O W
-
-```
-
-🌐 **[Try it Live Here](https://huggingface.co/spaces/Abdelrahman-Hassan-1/Book_Recommendation_System)** 🌟
+🌐 **[Try it Live Here](https://huggingface.co/spaces/Abdelrahman-Hassan-1/Book_Recommendation_System) on HuggingFace 🤗** 🌟
 
 ---
 
